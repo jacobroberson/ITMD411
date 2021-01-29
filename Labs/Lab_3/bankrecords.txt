@@ -1,0 +1,12 @@
+Data analytic result: 
+
+Average Female Income: 14323.159116666653
+Average Male Income: 13612.913600000009
+Average Income:27936.072716666677
+
+Females with a Mortgage and Savings Account:71
+
+Males with a car and 1 child in the inner city:15
+Males with a car and 1 child in a town:7
+Males with a car and 1 child in the rural:15
+Males with a car and 1 child in the suburban:3
